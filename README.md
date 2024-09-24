@@ -7,7 +7,6 @@ WooCommerce NanoPay POS is a plugin that transforms a WordPress page into a Poin
 - Creates a dedicated POS page in your WordPress site
 - Displays all WooCommerce products, including regular and service products
 - Real-time cart management with quantity adjustments
-- Supports both regular products and service-based products
 - Integrates with NanoPay for secure Nano cryptocurrency transactions
 - Maintains an order history with transaction details  
 - Sale prices are displayed in the cart and checkout page
@@ -16,11 +15,11 @@ WooCommerce NanoPay POS is a plugin that transforms a WordPress page into a Poin
 ## Installation
 1. Upload the `woo-nanopay-pos` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to the plugin settings page and set your Nano address for receiving payments
+3. Go to the Settings > NanoPay POS and set your Nano address for receiving payments
 
 ## Usage
 1. After activation, the plugin creates a "Nano Point of Sale" page automatically
-2. Access the POS system by visiting this page on your WordPress site
+2. Access the POS system by visiting the /nano-point-of-sale/ page on your WordPress site
 3. Add products to the cart by clicking "Add to Cart"
 4. Adjust quantities using the + and - buttons in the cart
 5. Click "Checkout" to process the payment using NanoPay
@@ -32,9 +31,9 @@ WooCommerce NanoPay POS is a plugin that transforms a WordPress page into a Poin
 - PHP 7.0 or higher
 
 ## Configuration
-1. Go to WooCommerce > Settings > NanoPay POS
+1. Go to Settings > NanoPay POS
 2. Enter your Nano address for receiving payments
-3. Customize any other settings as needed
+3. Press the Save button
 
 ## Frequently Asked Questions
 
