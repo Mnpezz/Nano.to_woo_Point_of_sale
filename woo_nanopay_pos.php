@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce NanoPay POS
 Description: A WooCommerce plugin that turns a page into a point of sale using NanoPay for Nano payments.
-Version: 2.4
+Version: 2.5
 Author: mnpezz
 */
 
