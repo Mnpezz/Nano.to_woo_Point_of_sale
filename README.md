@@ -39,30 +39,10 @@ WooCommerce NanoPay POS is a plugin that transforms a WordPress page into a Poin
 ## Frequently Asked Questions
 
 ### Can I use this for both physical and digital products?
-Yes, the plugin supports all product types available in WooCommerce, including physical, digital, and service products.
+Yes, the plugin supports all product types available in WooCommerce, including physical, digital, and service products but digital items will not be shown or sent to the buyer during a point of sale transaction.
 
 ### Is it possible to customize the appearance of the POS page?
 The POS page uses a default style, but you can customize its appearance using custom CSS in your theme or a custom CSS plugin.
 
 ### How secure are the Nano payments?
 The plugin uses NanoPay for processing Nano payments, which provides a secure method for cryptocurrency transactions. Always ensure you're using the latest version of the plugin and WordPress for optimal security.
-
-## Changelog
-
-### 1.1
-- Added support for service-based products
-- Improved quantity management in the cart
-- Fixed issues with price display for sale items
-
-### 1.0
-- Initial release
-
-## Support
-For support, feature requests, or bug reports, please use the plugin's GitHub repository or contact the plugin author.
-
-## License
-This plugin is licensed under the GPL v2 or later.
-
----
-
-Made with ❤️ by mnpezz
